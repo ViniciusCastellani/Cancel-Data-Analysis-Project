@@ -23,7 +23,7 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Install all the files in this link [https://drive.google.com/drive/folders/1HLQZ6P29h6wDFwzzBM2iWNRfvTnrVO4B?usp=sharing]()
+1. Install all the files in this link [Google Drive](https://drive.google.com/drive/folders/1HLQZ6P29h6wDFwzzBM2iWNRfvTnrVO4B?usp=sharing)
 2. Navigate to the project directory
 3. Install the required libraries using pip:
 
