@@ -5,6 +5,7 @@ This project involves data analysis using Python, with pandas and plotly librari
 ## Example Visualizations
 
 ![Example Plot](images/newplot.png)
+
 ![Another Plot](images/Anotherplot.png)
 
 ## Getting Started
