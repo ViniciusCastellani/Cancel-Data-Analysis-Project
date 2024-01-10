@@ -32,7 +32,6 @@ A step by step series of examples that tell you how to get a development environ
 ```
 
 ```
-
 ## Built With
 
 * [Python](https://www.python.org/) - The programming language used
