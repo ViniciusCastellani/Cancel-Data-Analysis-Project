@@ -2,10 +2,10 @@
 
 This project involves data analysis using Python, with pandas and plotly libraries. The main objective is to analyze cancellation data, and propose solutions for the main causes of the cancelation
 
-## Some images of the graphics
+## Example Visualizations
 
-![Example Plot](D:\PROGRAMACAO\Python\HashtagTreinamentos\Aula2)
-![Another Plot](D:\PROGRAMACAO\Python\HashtagTreinamentos\Aula2)
+![Example Plot](images/example_plot.png)
+![Another Plot](images/another_plot.png)
 
 ## Getting Started
 
